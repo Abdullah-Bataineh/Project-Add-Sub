@@ -5,4 +5,7 @@ public class Main {
     public int Add(int numberOne,int numberTwo){
         return numberOne+numberTwo;
     }
+    public int Sub (int numberOne,int numberTwo){
+        return numberOne-numberTwo;
+    }
 }
